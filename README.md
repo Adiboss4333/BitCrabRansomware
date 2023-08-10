@@ -6,6 +6,9 @@ BitCrab is a windows ransomware that encrypts all the user files with a basic en
 
 This project is OpenSource, feel free to use, study and/or send pull request.
 
+# Before Running
+
+Make sure that all other files are removed excluding( run.txt , file.txt, icon.ico, Ransomware.cpython-310.pyc )
 
 # Disclaimer
 This Ransomware mustn't be used to harm/threat/hurt other person's computer.
