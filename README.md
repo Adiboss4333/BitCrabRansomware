@@ -1,4 +1,4 @@
-# BitCrabRasomware a Windows Ransomware
+# BitCrab Rasomware a Windows Ransomware
 
 This is Original Repository of the BitCrabRansomware.
 
