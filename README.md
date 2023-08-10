@@ -10,6 +10,10 @@ This project is OpenSource, feel free to use, study and/or send pull request.
 
 Make sure that all other files are removed excluding( run.txt , file.txt, icon.ico, Ransomware.cpython-310.pyc )
 
+# Not Working No Problem
+
+If the Ransomware is not opening or working make sure that ( key.txt, run.txt, icon.ico ) files are present including the main Ransomware in the same directory
+
 # Disclaimer
 This Ransomware mustn't be used to harm/threat/hurt other person's computer.
 
