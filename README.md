@@ -11,10 +11,7 @@ This project is OpenSource, feel free to use, study and/or send pull request.
 2: Run the below command to install libraries needed for the Ransomware to run. Make sure while running the command the requirements.txt is present in the same directory where you are running the command from.
 
 <pre>
-```
-  pip install -r requirements.txt
-  
-```
+pip install -r requirements.txt
 </pre>
 
 # Before Running
